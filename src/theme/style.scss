@@ -1,0 +1,22 @@
+---
+---
+
+$primary-color: #048000;
+
+@import "_settings.scss";
+@import "_functions.scss";
+@import "_mixins.scss";
+
+@import "_layout.scss";
+@import "_text.scss";
+
+// Major page components
+@import "_aside.scss";
+@import "_footer.scss";
+
+// Template-specific styles
+@import "_page.scss";
+@import "_post.scss";
+
+// Minor/optional page components
+@import "_figures.scss";

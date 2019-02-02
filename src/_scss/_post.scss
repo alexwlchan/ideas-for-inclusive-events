@@ -1,0 +1,35 @@
+.continue_reading {
+  font-weight: bold;
+  &::after {
+    content: "→";
+  }
+}
+
+.post__separator {
+  color: $light-grey;
+  text-align: center;
+  font-size: 2em;
+  margin-top:    1em;
+  margin-bottom: 1em;
+}
+
+.micropost .post__meta:first-child {
+  margin-top: 2.5em;
+}
+
+.micropost .title {
+  margin-bottom: 4px;
+}
+
+.post__meta, .page__meta {
+  line-height: 1.45em;
+  &, a, a:visited {
+    color: $accent-grey;
+  }
+  font-size: $meta-font-size;
+  .post__permalink a {
+    &, &:visited {
+      color: $primary-color;
+    }
+  }
+}

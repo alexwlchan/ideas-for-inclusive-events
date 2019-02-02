@@ -1,0 +1,142 @@
+/// This file contains basic styles for body text on the site.
+///
+/// It applies across both pages and posts.  This file should not contain
+/// styles about page layout or positioning.
+
+body {
+  font: 12pt $main-font-family;
+  line-height: $line-height;
+  color: $body-color;
+	hanging-punctuation: first;
+}
+
+a {
+  color: $primary-color;
+  &:hover {
+    text-decoration: none;
+  }
+  &:visited {
+    color: $primary-dark;
+  }
+}
+
+h1 {
+  color: $primary-color;
+}
+
+h2 {
+  line-height: $line-height;
+  font-weight: normal;
+  margin-top: 2em;
+}
+
+h3 {
+  font-weight: normal;
+}
+
+.post__separator + h2 {
+  margin-top: 0em;
+}
+
+blockquote {
+  border-left: $sidebar-border-width solid $midtone-gray;
+  margin-left:  -$default-padding;
+  margin-right: 0px;
+  padding: 0px ($default-padding - $sidebar-border-width);
+
+  & > p {
+    font-style: italic;
+    color: #6f6f6f;
+  }
+
+  @media print {
+    color: $body-color;
+  }
+
+  pre {
+    border-color: #aaa;
+  }
+
+  em {
+    font-style: normal;
+  }
+
+  @media screen and (max-width: $max-width + $default-padding * 3) {
+    margin-left: 0px;
+  }
+}
+
+// These rules help with the positioning of footnote markers, although
+// I'm not entirely sure how they work.
+sup, sub {
+  vertical-align: 0ex;
+  position: relative;
+}
+
+sub {
+  top: 0.8ex;
+}
+
+sup {
+  bottom: 1ex;
+}
+
+.footnotes {
+  font-size: 1em * $scaling-factor;
+}
+
+.title {
+  font-size: 1.9em;
+  font-weight: normal;
+  line-height: 1.45em;
+  a {
+    text-decoration: none;
+  }
+  &.linkpost_title,
+  &.minipost_title {
+    font-size: 1.17em;
+    line-height: 1.35em;
+    padding-top: 12px;
+  }
+  &.linkpost_title {
+    a {
+      text-decoration: underline;
+      &:hover {
+        text-decoration: none;
+      }
+    }
+    &::after {
+      content: "\a0→";
+      color: $accent-grey;
+    }
+  }
+  a:visited {
+    color: $primary-color;
+  }
+  margin-bottom: -6px;
+}
+
+.content_warning {
+  font-style: italic;
+}
+
+h2, h3 {
+  &:hover {
+    & > a.anchor {
+      display: inline-block;
+    }
+  }
+}
+
+a.anchor {
+  &::after {
+    content: "¶";
+  }
+
+  display: none;
+  text-decoration: none;
+
+  &, &:visited {
+    color: $accent-grey;
+  }
+}
