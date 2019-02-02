@@ -15,7 +15,7 @@ Here are a few common gifts that I see, which don't always have universal appeal
 
 *   Neckties? [Yes, this actually happens.](https://www.youtube.com/watch?t=10m11s&v=XsKUP23WPxY)
 
-*   T-shirts that are only available in a men's cut.
+*   T-shirts that are only available in a men's cut or men's sizes.
 
 Two possible alternatives:
 
@@ -24,5 +24,3 @@ Two possible alternatives:
 *   Water bottles. I think this was another PyCon, but I’m not sure. It’s another accessory that most people use, and may be grateful of before going on stage!
 
 I’m sure you can think of other ideas that have universal appeal. And whenever a conference does this, I see a flurry of goodwill and nice tweets about it.
-
-A lot of conferences/sponsors do branded T-shirts or clothing.

@@ -31,3 +31,9 @@ I don't have good answers for that one yet.
     Two of the youngest attendees at PyCon UK 2017 – taking advantage of the free crèche. Photo by <a href="https://www.flickr.com/photos/152472562@N06/37919454202/in/album-72157666242746367/">Mark Hawkins</a>.
   </figcaption>
 </figure>
+
+## Further reading
+
+*   [*A Conference Crèche How To*](http://www.mtpt.org.uk/family-friendly-schools/a-conference-creche-how-to/), by Tom Bennett provides more detail on actually running a crèche.
+    The conference in question was in education, not tech, but the same principles apply.
+

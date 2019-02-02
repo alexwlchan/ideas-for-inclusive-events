@@ -27,8 +27,15 @@ Things you might think about:
     Think about how you might accommodate somebody who doesn't want to stand.
     Would your A/V setup still work if they're not standing at the lecturn?
 
-*   If they aren't plugging in their own laptop, check the presenter can use your equipment.
+*   Ideally you should let speakers use their own laptop: it's what they're most comfortable with, and is the most likely to work with their presentation.
+
+    If they aren't plugging in their own laptop, check the presenter can use your equipment.
 
     At Monki Gras 2019, Lorna Mitchell talked about being [a keyboard-only user](https://noti.st/lornajane/xkdbqh/tales-of-a-keyboard-only-user).
-    She never uses a pointing device, so having to use a strange computer is a source of problems and frustration.
+    She never uses a pointing device, so having to use a strange computer is a source of problems and frustration, and her keyboard-only presentation workflow might have broken.
     When something like that happens, you need to allow time for people to try using your equipment.
+
+## Further reading
+
+*   Nicolas Steenhout's story of [being excluded from the Confoo speaker dinner](https://incl.ca/excluded-confoo-speaker-dinner-happened-made-feel/).
+    Accessibility isn't just for when you're on stage -- it applies in all parts of the conference, including the evening socials.

@@ -23,6 +23,8 @@ The key is having a bright colour that means “no photos please”.
 It stands out in a crowd, and makes it clear if you’ve accidentally snapped somebody who ddin’t want their picture taken.
 Ideally it should be visible at a distance, and to somebody who's colour blind.
 
+If you have children at your event (e.g. a young coder's workshop), give them all the "don't photograph me" lanyard to avoid red tape around photographing children.
+
 <figure>
   <img src="/images/pyconuk-lanyards.jpg">
   <figcaption>

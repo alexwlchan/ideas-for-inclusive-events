@@ -15,3 +15,6 @@ If somebody starts “This isn’t a question, but a comment”, cut them off. M
 
 People have mixed feelings about the Q&A. Some speakers find them very helpful; others prefer to answer questions in the hallway after the session. I’ve started to see CfPs that let speakers choose if they want a Q&A, and I think that’s a good compromise.
 
+## Further reading
+
+*   Eric Holscher has [several good ideas](http://www.ericholscher.com/blog/2016/nov/12/questions-at-conferences/) for better ways to do questions after talks.
