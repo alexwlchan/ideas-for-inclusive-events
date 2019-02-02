@@ -27,7 +27,7 @@ This page has every idea on the list, in as much detail as possible.
 {% for idea in group.items %}
 <h2 id="{{ idea.slug }}">{{ idea.title }} <a href="{{ idea.url }}">&infin;</a></h2>
 
-{{ idea.summary | cleanup_text | smartify }}
+**{{ idea.summary | cleanup_text | smartify }}**
 
 {{ idea.content | cleanup_text | smartify | replace: "<h2 ", "<h3 " | replace: "</h2>", "</h3>" }}
 

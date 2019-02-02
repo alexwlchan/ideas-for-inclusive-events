@@ -6,6 +6,8 @@ module Jekyll
       # Replace any mention of "PyCon" with the appropriate non-breaking space
       text = input.gsub("PyCon ", "PyCon&nbsp;")
 
+      text = text.gsub("Mrs. Potts", "Mrs.&nbsp;Potts")
+
       text
     end
   end
