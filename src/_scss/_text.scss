@@ -22,6 +22,11 @@ a {
 
 h1 {
   color: $primary-color;
+  font-weight: normal;
+}
+
+article h1:not(.title) {
+  margin-top: 3em;
 }
 
 h2 {
@@ -139,4 +144,9 @@ a.anchor {
   &, &:visited {
     color: $accent-grey;
   }
+}
+
+.intro {
+  font-size: 1.25em;
+  line-height: 1.5em;
 }

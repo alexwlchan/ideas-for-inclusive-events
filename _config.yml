@@ -1,10 +1,11 @@
-title: "alexwlchan/inclusive-events"
+title: "alexwlchan's ideas for inclusive events"
 email: "alex@alexwlchan.net"
 
 author: "Alex Chan"
 description: "Ideas for inclusive and accessible events"
 url: "https://alexwlchan.net/inclusive-events/"
 github_repo: "https://github.com/alexwlchan/ideas-for-inclusive-events/"
+twitter: "alexwlchan"
 
 source: "src"
 destination: "_site"
@@ -27,3 +28,8 @@ liquid:
 sass:
   sass_dir: "_scss"
   style: "compressed"
+
+collections:
+  ideas:
+    output: true
+    permalink: "/ideas/:title/"
