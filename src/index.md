@@ -41,7 +41,7 @@ Most of these aren't original ideas -- this is a collection of other people's id
 
 I've helped organise [PyCon UK](https://2018.pyconuk.org/) for the last three years, and there's heavy reference to it throughout -- but most of these ideas predate my involvement.
 
-For a list of all the conferences and people who influenced this site, check out the [acknowledgements page](/acknowledgements/).
+For a list of all the conferences and people who influenced this site, check out the [acknowledgements page](/other-awesome-people/).
 
 
 
@@ -55,26 +55,15 @@ Overlook a critical requirement?
 
 Let me know -- send me [an email]({{ site.email | encode_mailto }}), drop me [a tweet](https://twitter.com/{{ site.twitter }}), or [open an issue]({{ site.github_repo }}/issues/new) on GitHub.
 
-# Table of contents
+# A summary of the ideas
 
-{% for idea in site.ideas %}
-  title: {{ idea.title }}
+{% assign groups = site.ideas | group_by: "category" | sort: "title" %}
 
-  {{ idea.url }}
+{% for group in groups %}
+### {{ group.name }}
 
-  {{ idea.slug }}
+{% for idea in group.items %}
+* [{{ idea.title }}.]({{ idea.url }}) {{ idea.summary | cleanup_text | smartify }}
 {% endfor %}
 
-<https://example.org/foo>
-
-Hello world.
-
-foo.
-
----
-{% for idea in site.ideas %}
-  title: {{ idea.title }}
 {% endfor %}
----
-
-{{ site }}

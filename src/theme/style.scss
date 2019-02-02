@@ -16,7 +16,29 @@ $primary-color: #048000;
 
 // Template-specific styles
 @import "_page.scss";
-@import "_post.scss";
 
 // Minor/optional page components
 @import "_figures.scss";
+@import "_tweets.scss";
+
+.idea__summary {
+  margin-bottom: 4px;
+
+  & + p {
+    margin-top: 4px;
+  }
+}
+
+.separator {
+  color: $light-grey;
+  text-align: center;
+  font-size: 2em;
+  margin-top:    1em;
+  margin-bottom: 1em;
+}
+
+.separator__sec {
+  color: $light-green;
+  margin-top:    1.3em;
+  margin-bottom: 1.3em;
+}

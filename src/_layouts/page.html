@@ -18,5 +18,9 @@ layout: default
   </div>
   {% endif %}
 
+  {% if page.summary %}
+  <p class="intro">{{ page.summary | cleanup_text | smartify }}</p>
+  {% endif %}
+
   {{ content | cleanup_text | smartify }}
 </article>

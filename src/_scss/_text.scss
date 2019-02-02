@@ -35,6 +35,10 @@ h2 {
   margin-top: 2em;
 }
 
+h1 + h2 {
+  margin-top: 1em;
+}
+
 h3 {
   font-weight: normal;
 }
@@ -45,7 +49,7 @@ h3 {
 
 blockquote {
   border-left: $sidebar-border-width solid $midtone-gray;
-  margin-left:  -$default-padding;
+  margin-left:  0px;
   margin-right: 0px;
   padding: 0px ($default-padding - $sidebar-border-width);
 
@@ -97,32 +101,10 @@ sup {
   a {
     text-decoration: none;
   }
-  &.linkpost_title,
-  &.minipost_title {
-    font-size: 1.17em;
-    line-height: 1.35em;
-    padding-top: 12px;
-  }
-  &.linkpost_title {
-    a {
-      text-decoration: underline;
-      &:hover {
-        text-decoration: none;
-      }
-    }
-    &::after {
-      content: "\a0→";
-      color: $accent-grey;
-    }
-  }
   a:visited {
     color: $primary-color;
   }
   margin-bottom: -6px;
-}
-
-.content_warning {
-  font-style: italic;
 }
 
 h2, h3 {
@@ -130,19 +112,6 @@ h2, h3 {
     & > a.anchor {
       display: inline-block;
     }
-  }
-}
-
-a.anchor {
-  &::after {
-    content: "¶";
-  }
-
-  display: none;
-  text-decoration: none;
-
-  &, &:visited {
-    color: $accent-grey;
   }
 }
 
