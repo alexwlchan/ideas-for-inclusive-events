@@ -24,6 +24,7 @@ And some other conferences which I haven't attended, but seen from afar:
 
 *   [Devopsdays London](https://www.devopsdays.org/events/2018-london/welcome/)
 *   [DjangoCon Europe](https://djangocon.eu)
+*   GitHub Universe
 *   [Open Source Bridge](http://opensourcebridge.org/)
 *   [Write the Docs](http://www.writethedocs.org/conf/)
 
