@@ -21,3 +21,6 @@ Those details might include:
 
 *   How easy is it for a wheelchair user to get to the venue?
     It's no good having an accessible venue that's surrounded by raised kerbs and without any step-free public transport.
+
+This may make the difference between whether somebody can physically attend your event, or they can't.
+If it's the latter, it's much better to find out before they turn up.
