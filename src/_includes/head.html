@@ -10,11 +10,11 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link type="application/atom+xml" rel="alternate" href="{{ site.url }}/atom.xml">
 
-  <link rel="stylesheet" href="/theme/style.css?{{ site.time | date:'%Y%m%d%U%H%N%S' }}">
-  <link rel="shortcut icon" type="image/png" href="/theme/favicon.png">
-  <link rel="shortcut icon" type="image/x-icon" href="/theme/favicon.ico">
+  <link rel="stylesheet" href="{{ site.url }}/theme/style.css?{{ site.time | date:'%Y%m%d%U%H%N%S' }}">
+  <link rel="shortcut icon" type="image/png" href="{{ site.url }}/theme/favicon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/theme/favicon.ico">
 
-  <link rel="apple-touch-icon" href="/theme/apple-touch-icon.png">
+  <link rel="apple-touch-icon" href="{{ site.url }}/theme/apple-touch-icon.png">
 
   {% include socialgraph.html %}
 

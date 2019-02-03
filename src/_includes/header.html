@@ -1,12 +1,12 @@
 <aside>
   <div id="aside_inner">
-    <h1 id="brand"><a href="/">{{ site.title | escape }}</a></h1>
+    <h1 id="brand"><a href="{{ site.url }}/">{{ site.title | escape }}</a></h1>
 
     <div id="aside_links">
       <ul class="dot_list">
         <li><a href="{{ site.url }}/">intro</a></li>
         <li><a href="{{ site.url }}/other-awesome-people/">acknowledgements</a></li>
-        <li><a href="{{ site.url }}/#short-version">short version</a></li>
+        <li><a href="{{ site.url }}/short-version/">short version</a></li>
         <li><a href="{{ site.url }}/long-version/">long version</a></li>
       </ul>
     </div>

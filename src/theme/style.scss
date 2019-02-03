@@ -1,6 +1,7 @@
 ---
 ---
 
+$site-url: "{{ site.url }}";
 $primary-color: #048000;
 
 @import "_settings.scss";
@@ -41,4 +42,11 @@ $primary-color: #048000;
   color: $light-green;
   margin-top:    1.3em;
   margin-bottom: 1.3em;
+}
+
+h2 a {
+  font-style: italic;
+  &::after {
+    content: " →";
+  }
 }

@@ -5,7 +5,7 @@ SERVE_PORT      = 6161
 
 RSYNC_HOST = 139.162.244.147
 RSYNC_USER = alexwlchan
-RSYNC_DIR = /home/alexwlchan/sites/alexwlchan.net/inclusive-events/
+RSYNC_DIR = /home/alexwlchan/sites/alexwlchan.net/ideas-for-inclusive-events/
 
 ROOT = $(shell git rev-parse --show-toplevel)
 SRC = $(ROOT)/src

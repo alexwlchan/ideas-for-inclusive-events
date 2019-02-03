@@ -27,11 +27,14 @@ If you organise an event, you can take these ideas to make your events more incl
 If you attend, speak at, or sponsor an event, you have power -- you can ask for these accommodations where they don't already exist.
 Be picky about where you choose to participate, and walk away from events that don’t meet your standards.
 
-This page has a list of all the ideas, and a brief summary.
-Each idea also has an individual page that goes into more detail, and there's [another page]({{ site.url }}/long-versions/) that contains all the detail in one, single, searchable page -- just like that original blog post.
+You can read the [summary version of the list]({{ site.url }}/short-version/#short-version).
+You can also read a list [with all the details]({{ site.url }}/long-version/#long-version) on one single, searchable page -- just like that original blog post.
+Each idea also has an individual page.
 
 All the source code for the site is [on GitHub]({{ site.github_repo }}).
 The site was last updated on {{ site.time | date: site.date_format }}.
+
+## [Enough talking, take me straight to the list!]({{ site.url }}/short-version/)
 
 
 # Acknowledgements
@@ -74,18 +77,4 @@ Overlook a critical requirement?
 
 Let me know -- send me [an email]({{ site.email | encode_mailto }}), drop me [a tweet](https://twitter.com/{{ site.twitter }}), or [open an issue]({{ site.github_repo }}/issues/new) on GitHub.
 
-<h1 id="short-version">The short version</h1>
-
-{% for category in site.data.idea_categories %}
-
-### {{ category.name }}
-
-{% if category.description %}
-  {{ category.description | cleanup_text | smartify }}
-{% endif %}
-
-{% for idea in category.ideas %}
-* [{{ idea.title }}.]({{ site.url }}{{ idea.url }}) {{ idea.summary | cleanup_text | smartify }}
-{% endfor %}
-
-{% endfor %}
+## [Now I'm ready to go to the list!]({{ site.url }}/short-version/)

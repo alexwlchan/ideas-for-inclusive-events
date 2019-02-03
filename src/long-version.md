@@ -1,13 +1,9 @@
 ---
 layout: page
-title: "The long version"
+title: The long version
 ---
 
-{% assign groups = site.ideas | group_by: "category" | sort: "title" %}
-
-This page has every idea on the list, in as much detail as possible.
-
-### Table of contents:
+## Table of contents
 
 {% for category in site.data.idea_categories %}
 
