@@ -76,22 +76,16 @@ Let me know -- send me [an email]({{ site.email | encode_mailto }}), drop me [a 
 
 # A summary of the ideas
 
-{% assign ideas = site.ideas | sort: "title" %}
+{% for category in site.data.idea_categories %}
 
-{% for category in site.data.categories %}
-{% assign category_id = category[0] %}
-{% assign category_data = category[1] %}
+### {{ category.name }}
 
-### {{ category_data["name"] }}
-
-{% if category_data["description"] %}
-  {{ category_data["description"] | cleanup_text | smartify }}
+{% if category.description %}
+  {{ category.description | cleanup_text | smartify }}
 {% endif %}
 
-{% for idea in ideas %}
-{% if idea.category == category_id %}
+{% for idea in category.ideas %}
 * [{{ idea.title }}.]({{ idea.url }}) {{ idea.summary | cleanup_text | smartify }}
-{% endif %}
 {% endfor %}
 
 {% endfor %}

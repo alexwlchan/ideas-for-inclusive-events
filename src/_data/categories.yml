@@ -1,38 +1,38 @@
-good-behaviour:
+- id: "good-behaviour"
   name: "Encourage good behaviour"
 
-financial-assistance:
+- id: "financial-assistance"
   name: "Pricing and financial assistance"
   description:
   >
     Conferences tickets can be expensive, and that's before you factor in travel or accommodation costs.
     You can do things to make your conference more affordable to attend.
 
-getting-to-the-venue:
+- id: "getting-to-the-venue"
   name: "Getting to the venue"
 
-inside-the-venue:
+- id: "inside-the-venue"
   name: "Inside the venue"
 
-food-drink:
+- id: "food-drink"
   name: "Food & drink"
 
-speakers:
+- id: "speakers"
   name: "Look after your speakers"
 
-young-children:
+- id: "young-children"
   name: "Parents/guardians with young children"
 
-disabilities:
+- id: "disabilities"
   name: "Support for disabilities"
 
-diversity-of-people:
+- id: "diversity-of-people"
   name: "A diversity of people"
 
-badges-and-lanyards:
+- id: "badges-and-lanyards"
   name: "Badges, lanyards and photography"
 
-newcomers:
+- id: "newcomers"
   name: "Newcomers"
   description:
     >
