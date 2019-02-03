@@ -21,11 +21,11 @@ For example, your tiers might be:
 *   Tickets which are entirely free
 
 I prefer tiers to "early bird rates" because somebody can get the affordable prices at any time.
-Early bird tickets disproportionately help people who already know about the conference, and know when tickets go on sale -- which is likely to be people whove been before.
+Early bird tickets disproportionately help people who already know about the conference, and know when tickets go on sale -- which is likely to be people who've been before.
 
 Usually I've seen these tiers run on an "honour" system -- you just trust that people will pick the appropriate tier.
 You could police it, but that's likely to create a lot of hassle and extra work, and may not be worth the small extra gains.
-(See also: libraries that save money by dropping late fines, because the enforcement costs outweigh the fines.)
+(See also: libraries that save money by dropping late fines, because the cost of enforcement outweighs the fines.)
 
 ## Further reading
 

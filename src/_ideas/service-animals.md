@@ -12,9 +12,10 @@ Different venues will have different rules about whether they allow service anim
 
 Ideally you want to allow service animals throughout the conference.
 
-Remember that service animals are working -- don't pet or distract them without checking with the owner, or you might stop them from doing something important.
+Remember [basic etiquette]({{ site.url }}/ideas/dont-interfere/): service animals are working, so don't pet or distract them without checking with the owner.
+You might stop them from doing something important!
 
 Just as you provide food and drink for the human attendees, you can provide them for service animals as well.
-Here's a line from [GitHub Universe 2018](https://blog.github.com/2018-08-02-github-universe-scholarship-program/):
+Here's an idea I got from [GitHub Universe 2018](https://blog.github.com/2018-08-02-github-universe-scholarship-program/):
 
 > Fresh water, treats, and an onsite relief area for service or therapy dogs

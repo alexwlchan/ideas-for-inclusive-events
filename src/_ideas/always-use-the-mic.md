@@ -10,7 +10,7 @@ summary:
 A lot of venues will have audio induction loops for the benefit of the hard-of-hearing (it’s required by law in the UK).
 Provide microphones for anybody who's speaking, and connect them to the hearing loop.
 
-Remind your speakers to use the microphone, even if they think they can project their voice -- it makes it much easier for people using the hearing loop.
+Remind your speakers to use the microphone, even if they think they can project their voice -- it makes it much easier for people who are hard-of-hearing.
 If you have a Q&A, repeat questions into the microphone, or even better, have a roving microphone.
 If you're recording the sessions, using a microphone means you get much better audio quality.
 

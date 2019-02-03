@@ -18,7 +18,7 @@ Some key things to consider:
 *   Can you navigate the site without a pointing device?
 *   Does the site break if you disable JavaScript?
 *   Can I easily see/find links? Useful information?
-*   Do you have alt texts for any informative images?
+*   Do you have alt text for any informative images?
 
 This needs to apply to all aspects of the conference site: the initial information, schedule, ticket buying, call for proposals.
 
@@ -31,6 +31,6 @@ Here's a basic list of information that should be easy to find:
 *   Information about the venue (see also: [write travel instructions]({{ site.url }}/ideas/travel-instructions/))
 *   How to register for the event (sign up or ticketing)
 *   How to submit proposals
-*   Key dates: deadlines for tickets, proposals
+*   Key dates: deadlines for buying tickets, submitting proposals, [booking childcare]({{ site.url }}/ideas/free-creche/)
 *   The schedule
 *   The [code of conduct]({{ site.url }}/ideas/code-of-conduct/)

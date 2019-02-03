@@ -19,4 +19,4 @@ And even the English sign languages differ -- British Sign Language and American
 It's not like British and American English.
 If you're running an event [in multiple languages]({{ site.url }}/ideas/multilingual-conferences/), you may want an interpreter for each language.
 
-At PyCon UK, we only provide BSL interpreters upon request (for free), whereas we always provide live captioning.
+Most events I've seen only offer sign language interpreters upon request, but provide live captioning as standard.

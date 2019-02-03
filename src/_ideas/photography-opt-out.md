@@ -13,15 +13,15 @@ Approaches like “talk to an organiser” or “put a sticker on your badge” 
 
 Instead, some conferences use coloured lanyards to show whether you want to appear in photographs:
 
-*   [PyCon UK 2017](https://2017.pyconuk.org/) had blue lanyards by default, yellow lanyards if you didn't want to appear in photos.
+*   [PyCon UK 2017](https://2017.pyconuk.org/) had blue lanyards if you were happy to appear in photos, yellow lanyards if not.
 
-*   [DjangoCon Europe 2018](https://twitter.com/attacus_au/status/999251828536692737) had black lanyards if you were happy to appear in photos, white if not.
+*   [DjangoCon Europe 2018](https://twitter.com/attacus_au/status/999251828536692737) was the same scheme, but black/white instead of blue/yellow.
 
 *   [XOXO 2018](https://2018.xoxofest.com/inclusion) had three colours: blue if you were okay appearing in photos or videos, yellow if it was okay but ask permission first, red if you didn't want to appear in anything.
 
 The key is having a bright colour that means “no photos please”.
 It stands out in a crowd, and makes it clear if you've accidentally snapped somebody who didn't want their picture taken.
-Ideally it should stand out at a distance, and to somebody who's colour blind.
+It should stand out at a distance, and to somebody who's colour blind.
 
 Flash photography is a particular issue for some people (e.g. with epilepsy).
 It's also distracting if you're on stage and a flash goes off at the back of the room!

@@ -31,9 +31,10 @@ Things you might think about:
 *   Ideally you should let speakers use their own laptop: it's what they're most comfortable with, and is the most likely to work with their presentation.
 
     If they aren't plugging in their own laptop, test in advance that they can use your equipment.
+    Having to use a strange computer is a potential source of problems and frustration.
 
     At Monki Gras 2019, Lorna Mitchell talked about being [a keyboard-only user](https://noti.st/lornajane/xkdbqh/tales-of-a-keyboard-only-user), and had to present from the conference laptop.
-    She never uses a pointing device, so having to use a strange computer is a source of problems and frustration, and her keyboard-only presentation workflow might have broken.
+    She never uses a pointing device, so using a strange computer might have broken her keyboard-only presentation workflow.
     When something like that happens, you need to allow extra time for people to try using your equipment.
 
 ## Further reading

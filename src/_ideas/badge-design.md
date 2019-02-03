@@ -13,4 +13,4 @@ Every conference I've been to has done plain black on white in a sans serif font
 
 Nobody wants to waste time reading the badge -- keep it short, simple, easy to glance at.
 
-If you're using badges with a lanyard (and not a badge holder), print on both sides of the badge so it remains readable if it flips over.
+If you're using badges with a lanyard (and not a badge holder), print on both sides of the badge, so it remains readable if it flips over.

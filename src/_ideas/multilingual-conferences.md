@@ -10,7 +10,7 @@ summary:
 A lot of conferences in the tech industry are conducted solely in English, even if they're hosted in a country where English isn't the first (or second or third) language.
 This can lock out people whose English isn't good enough to follow a day of conference talks.
 
-I've never seen this directly (I've yet to go to a conference outside the UK), but I've heard of people tackling this in at least two ways:
+I've never seen this directly (I've yet to go to a conference outside the UK), but I've heard of conferences tackling this in at least two ways:
 
 *   Run talks in multiple languages.
     I've heard of conferences in Germany that have an English track and a German track, and I'm sure it must happen in other countries.

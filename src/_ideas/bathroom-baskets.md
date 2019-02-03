@@ -4,7 +4,7 @@ title: Provide bathroom baskets of basic toiletries
 category: inside-the-venue
 summary:
   >-
-    Finding basic toiletries (sanitary, dental, haircare products) in a strange city or country can be difficult.
+    Finding toiletries (sanitary, dental, haircare products) in a strange city or country can be difficult.
     Providing them directly in your bathrooms relieves a bit of that stress.
 ---
 
@@ -19,11 +19,11 @@ This ensures that if somebody is caught out in the middle of the day, they donâ€
 Examples of what you might include: sanitary products, spray-on deodorant, sunscreen, toothbrushes, dry shampoo.
 
 Put the same products in all your bathrooms, including sanitary products -- periods aren't something that exclusively affect able-bodied women.
-Put them in the men's and accessible bathrooms as well.
+Make sure they're in the men's and accessible bathrooms.
 
 Providing painkillers and medication would be nice as well, but check local laws and rules first.
 You probably shouldn't leave them unattended in the bathrooms (where children can get them).
-You might be able to keep some on the registration desk, or if not, point people [to local pharmacies]({{ site.url }}/ideas/local-information).
+You might be able to give some out at the registration desk, or if not, point people [to local pharmacies]({{ site.url }}/ideas/local-information).
 
-As well as sanitary products, I saw haircare and dental products at You Got This 2018.
-Apparently this is a feature of [the Monzo offices](https://twitter.com/aishpant/status/1086637102908035077) where the event was hosted.
+<!-- As well as sanitary products, I saw haircare and dental products at You Got This 2018.
+Apparently this is a feature of [the Monzo offices](https://twitter.com/aishpant/status/1086637102908035077) where the event was hosted. -->
