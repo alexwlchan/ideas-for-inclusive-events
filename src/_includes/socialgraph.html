@@ -1,11 +1,23 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@alexwlchan" />
+<meta name="twitter:image" content="{{ site.url }}/theme/apple-touch-icon.png?1" />
+
+{% if page.title %}
+<meta property="og:title" content="{{ page.title }}">
 <meta name="twitter:title" content="{{ page.title }}" />
-<meta name="twitter:description" content="{{ page.summary }}">
-<meta name="twitter:image" content="{{ site.url }}/theme/apple-touch-icon.png" />
+{% else %}
+<meta property="og:title" content="Ideas for inclusive and accessible events">
+<meta name="twitter:title" content="Ideas for inclusive and accessible events" />
+{% endif %}
+
+{% if page.summary %}
+<meta name="twitter:description" content="{{ page.summary }}" />
+<meta property="og:description" content="{{ page.summary }}" />
+{% else %}
+<meta name="twitter:description" content="A collection of ideas and suggestions for running conferences and events which are more inclusive and welcoming.">
+<meta property="og:description" content="A collection of ideas and suggestions for running conferences and events which are more inclusive and welcoming." />
+{% endif %}
 
 <meta property="og:type" content="article" />
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-<meta property="og:title" content="{{ page.title }}">
-<meta property="og:image" content="{{ site.url }}/theme/apple-touch-icon.png" />
-<meta property="og:description" content="{{ page.summary }}" />
+<meta property="og:image" content="{{ site.url }}/theme/apple-touch-icon.png?1" />
