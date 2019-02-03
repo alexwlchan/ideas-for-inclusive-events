@@ -26,7 +26,7 @@ Things you might think about:
     For some people, standing for long periods is a source of pain, and they'd rather sit to give the presentation.
     Think about how you might accommodate somebody who doesn't want to stand.
     Would your A/V setup still work if they're not standing at the lecturn?
-    Because [all your speakers use a mic](/ideas/always-use-the-mic/), right?
+    Because [all your speakers use a mic]({{ site.url }}/ideas/always-use-the-mic/), right?
 
 *   Ideally you should let speakers use their own laptop: it's what they're most comfortable with, and is the most likely to work with their presentation.
 

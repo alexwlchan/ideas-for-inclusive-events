@@ -4,7 +4,7 @@ layout: default
 <article class="page">
   {% if page.title %}
   <h1 class="title page__title">
-    <a href="{{ page.url | relative_url }}">{{ page.title | smartify | escape }}</a>
+    <a href="{{ site.url }}{{ page.url }}">{{ page.title | smartify | escape }}</a>
   </h1>
   {% endif %}
 

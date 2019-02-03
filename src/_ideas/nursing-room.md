@@ -13,4 +13,4 @@ Feeding young children (whether breastfeeding or formula feeding) should be dest
 Some people will prefer to breastfeed in private, so you should have a clean, quiet, private room for them.
 At minimum, the room needs a table and a chair.
 Electricity and a fridge are nice to have as well.
-(This should be different to [the quiet room](/ideas/quiet-room/).)
+(This should be different to [the quiet room]({{ site.url }}/ideas/quiet-room/).)

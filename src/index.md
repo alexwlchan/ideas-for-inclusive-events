@@ -28,7 +28,7 @@ If you attend, speak at, or sponsor an event, you have power -- you can ask for 
 Be picky about where you choose to participate, and walk away from events that don’t meet your standards.
 
 This page has a list of all the ideas, and a brief summary.
-Each idea also has an individual page that goes into more detail, and there's [another page](/everything/) that contains all the detail in one, single, searchable page -- just like that original blog post.
+Each idea also has an individual page that goes into more detail, and there's [another page]({{ site.url }}/long-versions/) that contains all the detail in one, single, searchable page -- just like that original blog post.
 
 All the source code for the site is [on GitHub]({{ site.github_repo }}).
 The site was last updated on {{ site.time | date: site.date_format }}.
@@ -40,7 +40,7 @@ Most of these aren't original ideas -- this is a collection of other people's id
 
 I've helped organise [PyCon UK](https://2018.pyconuk.org/) for the last three years, and there's heavy reference to it throughout -- but most of these ideas predate my involvement.
 
-For a list of all the conferences and people who influenced this site, check out the [acknowledgements page](/other-awesome-people/).
+For a list of all the conferences and people who influenced this site, check out the [acknowledgements page]({{ site.url }}/other-awesome-people/).
 
 
 
@@ -54,7 +54,7 @@ It's a list of suggestions, not absolute requirements.
 
 Just do your best – **some improvements are better than no improvements**. Anything you can do to make your event more inclusive is a worthwhile thing to do.
 And in many cases, they'll help more than just the intended group.
-For example, [live captioning](/ideas/live-captioning/) is usually meant for the deaf and hard-of-hearing, but it benefits other attendees as well!
+For example, [live captioning]({{ site.url }}/ideas/live-captioning/) is usually meant for the deaf and hard-of-hearing, but it benefits other attendees as well!
 
 Here’s a useful rule of thumb: **explicit is better than implicit**.
 The more you think about this, and the more detail you provide, the easier it is for somebody to decide if they’ll feel welcome at your event.
@@ -85,7 +85,7 @@ Let me know -- send me [an email]({{ site.email | encode_mailto }}), drop me [a 
 {% endif %}
 
 {% for idea in category.ideas %}
-* [{{ idea.title }}.]({{ idea.url }}) {{ idea.summary | cleanup_text | smartify }}
+* [{{ idea.title }}.]({{ site.url }}{{ idea.url }}) {{ idea.summary | cleanup_text | smartify }}
 {% endfor %}
 
 {% endfor %}

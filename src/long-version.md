@@ -34,7 +34,7 @@ This page has every idea on the list, in as much detail as possible.
 {% endif %}
 
 {% for idea in category.ideas %}
-<h2 id="{{ idea.slug }}">{{ idea.title }} <a href="{{ idea.url }}">&infin;</a></h2>
+<h2 id="{{ idea.slug }}">{{ idea.title }} <a href="{{ site.url }}{{ idea.url }}">&infin;</a></h2>
 
 <strong>{{ idea.summary | cleanup_text | smartify }}</strong>
 
