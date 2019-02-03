@@ -1,13 +1,19 @@
 ---
 layout: page
-title: "Run specific sessions for first timers"
-category: "Newcomers"
+title: "Colour communication badgs"
+category: "Badges, lanyards and photography"
 summary:
   >-
-    Coming to a conference for the first time can be intimidating, so make sure you're giving a warm and useful welcome to your first timers.
+    Give people a way to signal how comfortable they are socialising and talking to new people.
 ---
 
-For several years, Write The Docs conferences have run a “Welcome Wagon” – there’s a dedicated session for meeting other first-time attendees, tours of the venue, and a bunch of information about how the conference works. The Welcome Wagon for [the 2018 Prague conference](http://www.writethedocs.org/conf/prague/2018/welcome-wagon/) has lots of advice and suggestions about how to get the most from the conference.
+Here’s an implementation of the system [at AlterConf Berlin](https://alterconf.com/news/introducing-color-communication-badges):
 
-Although a lot of that page is Prague or Write The Docs-specific, the questions apply to any conference – you could write answers for your event.
+> Each attendee receives three cards included with their name badge and holder. […] The colored cards can be slipped behind the name badge in the holder so they’re visible to other attendees.
+>
+> A green card with a triangle means that the wearer wants people to come up and talk to them. Yellow, with a circle, means they want only people they know to approach them, and red, with a square, means that they want to be left alone. In each case, the person wearing the badge may still approach people they want to talk to, but if someone is wearing a yellow or red badge, they generally want to keep being approached to a minimum.
 
+Note the use of shapes, so this works for colourblind attendees as well.
+
+The system was developed [by the Autistic Self Advocacy Network](https://autisticadvocacy.org/2014/02/color-communication-badges/).
+I haven’t seen it at a conference myself yet, but I think it’s a nice idea.

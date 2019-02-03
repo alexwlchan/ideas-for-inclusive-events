@@ -9,6 +9,7 @@ summary:
 
 If you have a young child and you want to go to a conference, you either have to find childcare while you're away, or your partner has to look after your child for the day.
 That's expensive and/or potentially annoying for your partner, and even harder if you're a single parent.
+(And the burden of childcare disproportionately falls on women, who are usually underrepresented at tech conferences.)
 
 I've seen quite a few conferences that solve this problem with a free crèche.
 If you have a young child, you sign up in advance, and the conference hires registered and qualified childminders to look after children during conference hours.

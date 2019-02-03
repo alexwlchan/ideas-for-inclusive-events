@@ -4,12 +4,12 @@ title: "Live captioning in talks"
 category: "Support for disabilities"
 summary:
   >-
-    Hiring a stenographer means you can provide real-time captioning of talks, which makes them much easier to follow for people who are deaf and hard-of-hearing.
+    Hiring a stenographer means you can provide real-time captioning of talks, which makes them easier to follow for people who are deaf and hard-of-hearing.
 ---
 
-Hire a stenographer to provide real-time captioning on talks, which can be displayed on screens alongside the speaker.
+The real-time captions can be displayed on screens alongside the speaker.
 Primarily this helps people who are deaf, hard-of-hearing, or non-native speakers.
-It can also help if somebody misses a word, the speaker has a strong accent, or their focus drifts -- the transcript gives a way to catch up.
+It can also help if somebody misses a word, the speaker has a strong accent, or their focus drifts -- the transcript gives them a way to catch up.
 
 To support the captioners, ask speakers for specialist/technical terms in advance.
 They can be programmed into the stenographer’s special keyboards, so you get more accurate transcriptions.

@@ -14,7 +14,7 @@ Those details might include:
     How big are the lifts?
 
 *   How wide are the doorways?
-    If the main venue is some way inside a building, what’s the narrowest doorway you need to get to the main conference area?
+    If the main area is some way inside a building, what’s the narrowest doorway you need to get there?
 
 *   Are there wheelchair spaces inside the auditorium?
     How wide are the aisles between the seats?
@@ -23,10 +23,10 @@ Those details might include:
     It's no good having an accessible venue that's surrounded by raised kerbs and without any step-free public transport.
 
 *   Are there heavy doors inside the building that a wheelchair user might struggle to open?
-    Is there an alternative route with automatic doors?
+    Is there a route with automatic doors?
 
 *   What's the floor surface like?
     Heavy carpet, tiles, wood -- if you're walking they're mostly the same, but they can be very different in a wheelchair.
 
-This may make the difference between whether somebody can physically attend your event, or they can't.
+This might make the difference between whether somebody can physically attend your event, or they can't.
 If it's the latter, it's much better to find out before they turn up.

@@ -15,8 +15,9 @@ You can do this in a number of ways:
 *   Pronoun stickers
 *   Offer to print it on the badge (I saw this at an AVEN conference last July, and we did it for PyCon UK 2018)
 
-You shouldn’t *force* people to write pronouns on their badges -- but give them the option if they want to.
-(If a trans person who's not out to everybody comes to your event, they have to choose between misgendering themselves and outing themselves.
+You shouldn’t force people to write pronouns on their badges -- but give them the option if they want to.
+(This causes problems for a trans person who's not out to everybody comes to your event.
+They have to choose between misgendering themselves and outing themselves.
 Neither are pleasant!)
 
 Let people choose which pronoun badge/sticker they want, if any.

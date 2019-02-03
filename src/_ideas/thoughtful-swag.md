@@ -4,10 +4,10 @@ title: Be thoughtful about your swag and speaker gifts
 category: "A diversity of people"
 summary:
   >-
-    Conference swag and speaker gifts are nice gesture, and well-intentioned. But be wary of common gifts that can be inadvertently insensitive.
+    Conference swag and speaker gifts are a nice gesture, and well-intentioned. But be wary of common gifts that can be inadvertently insensitive.
 ---
 
-Here are a few common gifts that I see, which don't always have universal appeal:
+Here are a few gifts that can sometimes go awry:
 
 *   A bottle of wine? Not everybody drinks alcohol.
 

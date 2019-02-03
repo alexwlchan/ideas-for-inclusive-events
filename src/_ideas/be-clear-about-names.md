@@ -25,7 +25,7 @@ Some examples:
 People put all sorts of names on their badges -- wallet names, nicknames, their online handle -- whatever they think will help people recognise them.
 Don't make assumptions about what should be printed there, or what they'll prefer.
 
-Don't use the name from somebody's legal ID -- this causes problems for trans and non-binary people, or anybody using a different name professionally to their legal name.
+Don't just use the name from somebody's legal ID -- this causes problems for trans and non-binary people, or anybody using a different name professionally to their legal name.
 For example, married women who work under their maiden name.
 
 The name field should be a single, free text field – no “first name, last name”, or other [assumptions about the structure of names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/).

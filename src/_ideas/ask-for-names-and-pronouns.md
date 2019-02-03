@@ -18,4 +18,4 @@ Don’t try to guess and misgender somebody, or mangle their name. It’s rude, 
 Double demerit if your first language is English and you make a joke about the unpronouncability of a name.
 
 If you do mess up, correct yourself and move on.
-Apologise to the speaker in private after the talk, but don't make a big show of apologising -- it's distracting, and only serves to highlight the mistake.
+Apologise to the speaker in private after the talk, but don't make a big show of apologising on stage -- it's distracting, and only serves to highlight the mistake.

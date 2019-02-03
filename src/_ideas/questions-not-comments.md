@@ -9,7 +9,7 @@ summary:
 
 Make sure you have a chair on hand to ensure things go smoothly.
 
-If I'm chairing a session that I expect will provoke opinions, I remind the audience before I pass around a microphone that the Q&A is for questions, not comments.
+If I'm chairing a session that I expect will provoke strong opinions, I remind the audience before I pass around a microphone that the Q&A is for questions, not comments.
 
 If somebody starts “This isn’t a question, but a comment”, cut them off. Move straight on to the next person.
 
@@ -18,3 +18,5 @@ People have mixed feelings about the Q&A. Some speakers find them very helpful; 
 ## Further reading
 
 *   Eric Holscher has [several good ideas](http://www.ericholscher.com/blog/2016/nov/12/questions-at-conferences/) for better ways to do questions after talks.
+
+*   Use a [roving microphone]({{ site.url }}/ideas/always-use-the-mic/) to ensure everybody can hear the questions being asked.

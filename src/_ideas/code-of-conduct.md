@@ -13,7 +13,7 @@ It's important to run an event where everybody is shown respect, courtesy, and k
 A good code of conduct will explain:
 
 *   What sort of behaviour is acceptable at the event
-*   What to do if they see bad behaviour (e.g. find somebody wearing an organiser t-shirt)
+*   What to do if they see bad behaviour (i.e., how to report it ot the organisers)
 *   How the organisers will handle a report
 
 Advertise the CoC prominently -- on your website, when buying tickets, in your introductory remarks at the start of the conference.

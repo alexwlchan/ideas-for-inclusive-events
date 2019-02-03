@@ -21,6 +21,6 @@ For example:
 You should also try to provide step-free routes to the venue, which are useful for wheelchair users or people with mobility problems.
 Your attendees don’t magically appear at your front door.
 
-Some transport companies provide special discounts if people are going to events or conferences.
+Some transport companies provide discounts if people are going to events or conferences.
 For example, GWR have [special conference rates](https://www.gwr.com/plan-journey/tickets-railcards-and-season-tickets/business-travel/conferences-and-events), and LNER have [discounts for conventions in Harrogate](https://www.lner.co.uk/special-offers/deals/25-off-harrogate-convention-centre/).
 See if there are any special deals that apply to you, and then tell people about them before they book their travel.

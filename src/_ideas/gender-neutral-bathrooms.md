@@ -7,7 +7,7 @@ summary:
     Modify your venue to include single-stall, gender-neutral bathrooms, and have a policy that everybody can use whichever bathroom they like.
 ---
 
-At tech conferences I’ve been to, there are lots of trans and non-binary people, who are often excluded or marginalised by gendered toilets.
+At tech conferences I’ve been to, there are lots of trans and non-binary people, who are often excluded or marginalised by traditionally gendered toilets.
 Modifying your venue to have some gender-neutral bathrooms is a good way to make them feel included.
 
 When AlterConf was still running, it was a staple of the conference tweets to see somebody take a photo of the gender-neutral bathroom signs (this is in Berlin):

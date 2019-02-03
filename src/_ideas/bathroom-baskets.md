@@ -21,8 +21,9 @@ Examples of what you might include: sanitary products, spray-on deodorant, sunsc
 Put the same products in all your bathrooms, including sanitary products -- periods aren't something that exclusively affect able-bodied women.
 Put them in the men's and accessible bathrooms as well.
 
-You probably can't leave painkillers and medication in the bathrooms (where children can get them).
-Keep some on the registration desk, and people can ask for them if they need them.
+Providing painkillers and medication would be nice as well, but check local laws and rules first.
+You probably shouldn't leave them unattended in the bathrooms (where children can get them).
+You might be able to keep some on the registration desk, or if not, point people [to local pharmacies]({{ site.url }}/ideas/local-information).
 
 As well as sanitary products, I saw haircare and dental products at You Got This 2018.
 Apparently this is a feature of [the Monzo offices](https://twitter.com/aishpant/status/1086637102908035077) where the event was hosted.

@@ -11,8 +11,9 @@ summary:
 
 It’s important to make these talks a dedicated part of the schedule – for example, [at PyCon US](https://us.pycon.org/2018/schedule/talks/), there was a slot for lightning talks at the beginning and end of the day. I’ve seen a few events run them in the lunch break, when most people would rather have food and talk to people. Making it a timetabled event gets better attendance.
 
-At PyCon UK 2017, we experimented with the signup process. We had a [lottery system](https://alexwlchan.net/2017/10/lightning-talks/) with dedicated slots for new speakers.
-We ran the same process in 2018.
+At PyCon UK, the signup for lightning talks is extremely popular.
+We want to make sure new speakers get a chance to speak, and not just all the old faces!
+We use a [lottery system](https://www.owencampbell.me.uk/lightning-talks.html), with dedicated slots for new speakers to ensure they get a fair chance.
 
 <figure>
   <img src="/images/pyconuk-lightning.jpg">
