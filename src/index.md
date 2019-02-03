@@ -74,7 +74,7 @@ Overlook a critical requirement?
 
 Let me know -- send me [an email]({{ site.email | encode_mailto }}), drop me [a tweet](https://twitter.com/{{ site.twitter }}), or [open an issue]({{ site.github_repo }}/issues/new) on GitHub.
 
-# A summary of the ideas
+<h1 id="short-version">The short version</h1>
 
 {% for category in site.data.idea_categories %}
 

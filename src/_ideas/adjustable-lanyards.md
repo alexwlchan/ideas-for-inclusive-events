@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Have lanyards that are adjustable.
+title: Have lanyards that are adjustable
 category: badges-and-lanyards
 summary:
   >-
