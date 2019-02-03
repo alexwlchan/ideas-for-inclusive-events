@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Provide non-alcoholic, low-caffeine and low-sugar drinks
-category: "Food and drink"
+category: food-drink
 summary:
   >-
     Lots of events assume that everybody drinks alcohol and caffeine, and just has water and fruit juice for everybody else. More variety!

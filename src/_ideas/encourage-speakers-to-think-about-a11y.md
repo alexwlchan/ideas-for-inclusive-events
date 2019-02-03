@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Encourage speakers to think about accessibility in their slides"
-category: "Support for disabilities"
+category: disabilities
 summary:
   >-
     There are simple rules that make slides easier for everyone to read.

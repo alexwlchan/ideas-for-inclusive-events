@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Make the name badges clear and easy to read
-category: "Badges, lanyards and photography"
+category: badges-and-lanyards
 summary:
   >-
     We use name badges to identify people.

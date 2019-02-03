@@ -1,0 +1,41 @@
+good-behaviour:
+  name: "Encourage good behaviour"
+
+financial-assistance:
+  name: "Pricing and financial assistance"
+  description:
+  >
+    Conferences tickets can be expensive, and that's before you factor in travel or accommodation costs.
+    You can do things to make your conference more affordable to attend.
+
+getting-to-the-venue:
+  name: "Getting to the venue"
+
+inside-the-venue:
+  name: "Inside the venue"
+
+food-drink:
+  name: "Food & drink"
+
+speakers:
+  name: "Look after your speakers"
+
+young-children:
+  name: "Parents/guardians with young children"
+
+disabilities:
+  name: "Support for disabilities"
+
+diversity-of-people:
+  name: "A diversity of people"
+
+badges-and-lanyards:
+  name: "Badges, lanyards and photography"
+
+newcomers:
+  name: "Newcomers"
+  description:
+    >
+      One of the great parts of regular conferences is having a chance to see people you don’t see anywhere else -- for example, I have friends I only see when I'm at PyCon UK.
+      But there's a risk a conference can get a clique-y feel -- everybody who's been before knows each other, and you feel left out if you're new and don't know anybody yet.
+      If you want your conference to grow, it’s important to make newcomers feel as welcome as the old timers.

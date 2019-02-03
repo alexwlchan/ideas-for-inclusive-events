@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Give advice on good accommodation
-category: "Getting to the venue"
+category: getting-to-the-venue
 summary:
   >-
     If you know the area, you probably know where's a good place to stay – and conversely, where you really *don't* want to stay.

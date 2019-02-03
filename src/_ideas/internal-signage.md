@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Print clear internal signage
-category: "Inside the venue"
+category: inside-the-venue
 summary:
   >-
     Help your attendees find their way round an unfamiliar venue by providing dedicated, branded signage, with large and clear text.

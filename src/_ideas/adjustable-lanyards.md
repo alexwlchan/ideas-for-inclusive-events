@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Have lanyards that are adjustable.
-category: "Badges, lanyards and photography"
+category: badges-and-lanyards
 summary:
   >-
 ---

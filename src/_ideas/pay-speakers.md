@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Compensate and pay expenses for your speakers
-category: "Look after your speakers"
+category: speakers
 summary:
   >-
     Preparing a conference talk is a lot of work. If you don’t pay your speakers, you’re restricting yourself to people who can afford to do that preparation for free.

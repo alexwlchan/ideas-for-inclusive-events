@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Offer tiered ticket rates
-category: "Pricing and financial assistance"
+category: financial-assistance
 summary:
   >-
     Don't just have a single ticket price.

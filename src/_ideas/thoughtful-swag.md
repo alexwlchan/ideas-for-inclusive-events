@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Be thoughtful about your swag and speaker gifts
-category: "A diversity of people"
+category: diversity-of-people
 summary:
   >-
     Conference swag and speaker gifts are a nice gesture, and well-intentioned. But be wary of common gifts that can be inadvertently insensitive.

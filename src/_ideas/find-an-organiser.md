@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Make it easy to spot the organisers
-category: "Inside the venue"
+category: inside-the-venue
 summary:
   >-
     If somebody has a question, a concern, or wants to talk about the code of conduct, they need to find an organiser.

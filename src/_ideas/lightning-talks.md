@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Run lightning talks/open mic sessions
-category: "Look after your speakers"
+category: speakers
 summary:
   >-
     Not everyone can or wants to prepare a full session – but that doesn’t mean they shouldn’t have a chance to speak.

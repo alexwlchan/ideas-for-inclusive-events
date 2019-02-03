@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Local information: shops, restaurants, pharmacies"
-category: "Getting to the venue"
+category: getting-to-the-venue
 summary:
   >-
     If somebody's travelling to a strange city for your event, help them get around when the conference finishes for the day.

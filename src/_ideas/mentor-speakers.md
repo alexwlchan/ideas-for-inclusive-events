@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Offer a mentoring programme
-category: "Look after your speakers"
+category: speakers
 summary:
   >-
     Speaking at a conference can be really intimidating, especially if you're not used to public speaking.

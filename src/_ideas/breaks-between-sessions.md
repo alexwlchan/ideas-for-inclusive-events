@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Have sufficient breaks between sessions
-category: "Support for disabilities"
+category: disabilities
 summary:
   >-
     It can be hard to get around quickly -- longer breaks in your schedule means everyone is more comfortable.

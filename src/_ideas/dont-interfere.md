@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Don't interfere with somebody else's disability aids
-category: "Support for disabilities"
+category: disabilities
 summary:
   >-
     Don't play with other people's stuff without asking first, and remind other people to do the same.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Look after service animals"
-category: "Support for disabilities"
+category: disabilities
 summary:
   >-
     If the venue permits, allow service animals throughout, and make sure the animals are looked after.

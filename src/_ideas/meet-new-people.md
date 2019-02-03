@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "If you’re a regular attendee, meet new people"
-category: "Newcomers"
+category: newcomers
 summary:
   >-
     If you’re a person who’s attends the same conference regularly, take some time to break out of your bubble and meet newcomers.

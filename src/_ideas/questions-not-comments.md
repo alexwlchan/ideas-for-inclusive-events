@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Questions, not comments
-category: "Look after your speakers"
+category: speakers
 summary:
   >-
     The Q&A session can be a stressful part of any talk, so handle it carefully.

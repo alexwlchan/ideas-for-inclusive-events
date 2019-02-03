@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Have a prayer room
-category: "Inside the venue"
+category: inside-the-venue
 summary:
   >-
     Offer a dedicated room for prayer, and highlight local places of worship.

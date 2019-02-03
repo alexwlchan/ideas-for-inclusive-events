@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Your conference website should be accessible and useful
-category: "Support for disabilities"
+category: disabilities
 summary:
   >-
     If your website isn't accessible or is missing critical info, there are people who can't even get through the front door.

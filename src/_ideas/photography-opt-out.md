@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Use coloured lanyards to let people opt out of photographs"
-category: "Badges, lanyards and photography"
+category: badges-and-lanyards
 summary:
   >-
     Not everybody likes having their photograph taken, and coloured lanyards make it easy for people to opt out.

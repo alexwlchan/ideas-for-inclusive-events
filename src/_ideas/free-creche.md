@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Offer a free crèche"
-category: "Parents/guardians with young children"
+category: young-children
 summary:
   >-
     A free crèche means that attendees don't have to worry about arranging childcare (or leaving a child for their partner to look after).

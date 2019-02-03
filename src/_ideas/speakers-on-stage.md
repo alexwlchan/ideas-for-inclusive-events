@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ensure your speakers can get to the stage
-category: "Look after your speakers"
+category: speakers
 summary:
   >-
     The best preparation in the world is wasted if the speaker can't get to the stage.

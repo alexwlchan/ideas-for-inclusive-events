@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Write travel instructions
-category: "Getting to the venue"
+category: getting-to-the-venue
 summary:
   >-
     Provide instructions for how to get to the venue, because it's probably less obvious than you think.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Run specific sessions for first timers"
-category: "Newcomers"
+category: newcomers
 summary:
   >-
     Coming to a conference for the first time can be intimidating, so make sure you're giving a warm and useful welcome to your first timers.

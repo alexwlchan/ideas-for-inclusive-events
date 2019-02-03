@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Provide detail about “wheelchair accessibility”"
-category: "Support for disabilities"
+category: disabilities
 summary:
   >-
     Simply saying a venue is "wheelchair accessible" is rarely enough, because wheelchairs come in different shapes and sizes. More detail is better.

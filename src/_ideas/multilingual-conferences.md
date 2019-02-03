@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "English isn't the only language in the world"
-category: "A diversity of people"
+category: diversity-of-people
 summary:
   >-
     If you're running a conference in multiple languages or in a place where fluency level varies, consider offering more than just English.

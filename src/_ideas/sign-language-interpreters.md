@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Hire sign language interpreters"
-category: "Support for disabilities"
+category: disabilities
 summary:
   >-
     A sign language interpreter can help an attendee who's hard-of-hearing, both to understand talks and when chatting in the corridor.

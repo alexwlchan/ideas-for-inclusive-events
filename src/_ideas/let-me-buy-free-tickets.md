@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Give people a way to contribute to free tickets"
-category: "Pricing and financial assistance"
+category: financial-assistance
 summary:
   >-
     Don't discount the generosity of your attendees: give them an easy way to contribute to the financial assistance pool.

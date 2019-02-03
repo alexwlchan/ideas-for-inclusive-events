@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Be considerate of dietary requirements
-category: "Food and drink"
+category: food-drink
 summary:
   >-
     You should aim to accommodate all dietary requirements, and be explicit about doing so.

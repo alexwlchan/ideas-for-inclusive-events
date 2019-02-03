@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Provide bathroom baskets of basic toiletries
-category: "Inside the venue"
+category: inside-the-venue
 summary:
   >-
     Finding basic toiletries (sanitary, dental, haircare products) in a strange city or country can be difficult.

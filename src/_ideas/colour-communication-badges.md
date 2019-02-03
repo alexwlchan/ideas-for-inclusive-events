@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Colour communication badgs"
-category: "Badges, lanyards and photography"
+category: badges-and-lanyards
 summary:
   >-
     Give people a way to signal how comfortable they are socialising and talking to new people.

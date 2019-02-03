@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ask somebody’s name and pronouns before introducing them
-category: "Look after your speakers"
+category: speakers
 summary:
   >-
     Nobody wants to be misgendered or misnamed as they're about to speak.

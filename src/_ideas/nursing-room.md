@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Have a nursing/baby care room"
-category: "Parents/guardians with young children"
+category: young-children
 summary:
   >-
     Destigmatise the feeding of young children in public spaces, and provide a space to do it privately if people prefer.

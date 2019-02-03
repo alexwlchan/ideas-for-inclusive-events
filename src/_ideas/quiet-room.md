@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Have a quiet room
-category: "Inside the venue"
+category: inside-the-venue
 summary:
   >-
     Have a space to take a break away from the bustle of the conference.

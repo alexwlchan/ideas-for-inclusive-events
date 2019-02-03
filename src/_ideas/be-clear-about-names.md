@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Be clear about how names are used"
-category: "Badges, lanyards and photography"
+category: badges-and-lanyards
 summary:
   >-
     Names are complicated, and you can’t be sure what name somebody wants to put on their badge – so ask!

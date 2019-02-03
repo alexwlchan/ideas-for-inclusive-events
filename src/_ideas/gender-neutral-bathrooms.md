@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Offer gender-neutral bathrooms"
-category: "Inside the venue"
+category: inside-the-venue
 summary:
   >-
     Modify your venue to include single-stall, gender-neutral bathrooms, and have a policy that everybody can use whichever bathroom they like.

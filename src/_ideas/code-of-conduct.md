@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Have a code of conduct
-category: "Encourage good behaviour"
+category: good-behaviour
 summary:
   >-
     A code of conduct explains what sort of behaviour is acceptable at your event, how violations will be dealt with, and how to report a problem.

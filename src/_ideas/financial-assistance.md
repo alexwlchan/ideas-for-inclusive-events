@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Offer financial assistance and free tickets
-category: "Pricing and financial assistance"
+category: financial-assistance
 summary:
   >-
     Tickets aren't the only cost of a conference: you also need to pay for travel, accommodation, food, and time away from work/home.

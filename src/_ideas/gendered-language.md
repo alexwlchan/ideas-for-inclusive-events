@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Avoid gendered language
-category: "A diversity of people"
+category: diversity-of-people
 summary:
   >-
     Phrases like "ladies and gentlemen" and "boys and girls" are alienating to trans and non-binary attendees.

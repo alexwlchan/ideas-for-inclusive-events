@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Allow people to put pronouns on their badges"
-category: "Badges, lanyards and photography"
+category: badges-and-lanyards
 summary:
   >-
     Letting people put pronouns on their badges reduces the risk of being misgendered, and makes the event more comfortable for trans/non-binary attendees.

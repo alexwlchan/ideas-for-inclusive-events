@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Offer visa invitation letters for people coming from overseas
-category: "Getting to the venue"
+category: getting-to-the-venue
 summary:
   >-
     An invitation letter can help somebody with their visa application, and it's fairly easy for you to provide.

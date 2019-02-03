@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Always use microphones and hearing loops"
-category: "Support for disabilities"
+category: disabilities
 summary:
   >-
     If you have microphones, connect them to the hearing loop and make sure that everybody uses them.

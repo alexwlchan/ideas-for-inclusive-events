@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Preferred seating for people with vision/mobility issues"
-category: "Support for disabilities"
+category: disabilities
 summary:
   >-
     Have reserved seating for people who need a clear view of the screen, or are in a wheelchair and can't move into the row.
