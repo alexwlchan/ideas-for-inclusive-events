@@ -19,4 +19,6 @@ And even the English sign languages differ -- British Sign Language and American
 It's not like British and American English.
 If you're running an event [in multiple languages]({{ site.url }}/ideas/multilingual-conferences/), you may want an interpreter for each language.
 
+As with live captioning, it's helpful to provide the interpreters with a list of specialist/technical terms in advance.
+
 Most events I've seen only offer sign language interpreters upon request, but provide live captioning as standard.

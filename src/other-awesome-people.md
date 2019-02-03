@@ -39,6 +39,7 @@ And some other conferences which I haven't attended, but seen from afar:
 
 Lots of people have given me ideas or suggestions for this list, including:
 
+*   [Ada Powers](https://twitter.com/mspowahs) used her Twitter network to build a big list of accessibility fails, some of which weren't on my list yet.
 *   [Ashe Dryden](https://twitter.com/ashedryden), who created and ran AlterConf
 *   Daniele Procida, director of PyCon UK 2018 and 2019
 *   [Eric Holscher’s](https://twitter.com/ericholscher) ideas and blog posts about breaking cliques at networking events
@@ -74,3 +75,5 @@ Lots of people have given me ideas or suggestions for this list, including:
 *   [The Less Obvious Conference Checklist](https://github.com/mxsasha/lessobviouschecklist) by Sasha Romijn is another useful resource.
 
 *   Several Twitter threads from different AlterConf's, including [by Sebastian Morr](https://twitter.com/blinry/status/863310340557352960) and [Wick's description of the ticketing](https://twitter.com/wickglyph/status/935935750104743936).
+
+    All the replies to [Ada Powers' tweet](https://twitter.com/mspowahs/status/1091409665290788864) asking for conference accessibility fails.

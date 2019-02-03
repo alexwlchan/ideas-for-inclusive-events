@@ -32,6 +32,9 @@ article h1:not(.title) {
 h2 {
   line-height: $line-height;
   font-weight: normal;
+}
+
+h2:not(.wayfinder) {
   margin-top: 2em;
 }
 

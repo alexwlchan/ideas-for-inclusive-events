@@ -34,7 +34,9 @@ Each idea also has an individual page.
 All the source code for the site is [on GitHub]({{ site.github_repo }}).
 The site was last updated on {{ site.time | date: site.date_format }}.
 
-## [Enough talking, take me straight to the list!]({{ site.url }}/short-version/)
+<h2 class="wayfinder">
+  <a href="{{ site.url }}/short-version/">Enough talking, take me straight to the list!</a>
+</h2>
 
 
 # Acknowledgements
@@ -77,4 +79,6 @@ Overlook a critical requirement?
 
 Let me know -- send me [an email]({{ site.email | encode_mailto }}), drop me [a tweet](https://twitter.com/{{ site.twitter }}), or [open an issue]({{ site.github_repo }}/issues/new) on GitHub.
 
-## [Now I'm ready to go to the list!]({{ site.url }}/short-version/)
+<h2 class="wayfinder">
+  <a href="{{ site.url }}/short-version/">Now I&rsquo;m ready to go to the list!</a>
+</h2>

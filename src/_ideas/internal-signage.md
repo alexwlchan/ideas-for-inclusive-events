@@ -10,7 +10,12 @@ summary:
 The branding makes it clear that the signs are for your event, and not the standard venue signage, or part of another event.
 The signs should include:
 
-*   Arrows highlighting the way around the venue
+*   Arrows highlighting the way around the venue, including to:
+
+    -   Every room used for sessions
+    -   Bathrooms, including accessible bathrooms
+    -   Lifts
+
 *   A sign on each room you're using
 *   Internal maps with dots to show "you are here"
 

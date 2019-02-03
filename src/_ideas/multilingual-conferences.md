@@ -19,3 +19,5 @@ I've never seen this directly (I've yet to go to a conference outside the UK), b
     You can hire translators who provide a real-time translation of the talks, which people can listen to in headphones.
     This almost certainly requires more infrastructure, but it's nice to think about.
     If you're doing this, you might want to consider [captioning in multiple languages]({{ site.url }}/ideas/live-captioning/) as well.
+
+    As with live captioning, it's helpful to provide the interpreters with a list of specialist/technical terms in advance.

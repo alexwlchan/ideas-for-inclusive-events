@@ -17,4 +17,6 @@ title: The short version
 
 {% endfor %}
 
-## [That's great, but I want more detail!]({{ site.url }}/short-version/)
+<h2 class="wayfinder">
+  <a href="{{ site.url }}/long-version/">That&rsquo;s great, but I want more detail!</a>
+</h2>
