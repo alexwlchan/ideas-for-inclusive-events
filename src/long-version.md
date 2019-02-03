@@ -3,7 +3,7 @@ layout: page
 title: The long version
 ---
 
-## Table of contents
+### Table of contents
 
 {% for category in site.data.idea_categories %}
 

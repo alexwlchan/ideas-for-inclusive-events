@@ -55,7 +55,7 @@ rsync:
 		--rsh="ssh -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa" \
 		/data/ "$(RSYNC_USER)"@"$(RSYNC_HOST)":"$(RSYNC_DIR)"
 
-deploy: publish rsync
+deploy: build rsync
 
 Gemfile.lock: Gemfile
 	docker run \

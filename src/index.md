@@ -62,8 +62,8 @@ And in many cases, they'll help more than just the intended group.
 For example, [live captioning]({{ site.url }}/ideas/live-captioning/) is usually meant for the deaf and hard-of-hearing, but it benefits other attendees as well!
 
 Here’s a useful rule of thumb: **explicit is better than implicit**.
-The more you think about this, and the more detail you provide, the easier it is for somebody to decide if they’ll feel welcome at your event.
-And if you’ve clearly thought about it already, it’s easier for somebody to ask for an accommodation you haven’t thought of – because they’re more likely to get a positive response.
+The more you think about this, and the more detail you provide, the easier it is for somebody to decide if they'll feel welcome at your event.
+And if you’ve clearly thought about it already, it’s easier for somebody to ask for an accommodation you haven't thought of – because they’re more likely to get a positive response.
 Saying you can’t do something is more useful than an empty page.
 
 Now go plan an awesome conference!
