@@ -22,5 +22,11 @@ Those details might include:
 *   How easy is it for a wheelchair user to get to the venue?
     It's no good having an accessible venue that's surrounded by raised kerbs and without any step-free public transport.
 
+*   Are there heavy doors inside the building that a wheelchair user might struggle to open?
+    Is there an alternative route with automatic doors?
+
+*   What's the floor surface like?
+    Heavy carpet, tiles, wood -- if you're walking they're mostly the same, but they can be very different in a wheelchair.
+
 This may make the difference between whether somebody can physically attend your event, or they can't.
 If it's the latter, it's much better to find out before they turn up.

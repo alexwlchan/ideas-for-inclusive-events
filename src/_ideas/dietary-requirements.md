@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Be explicit about dietary requirements
+title: Be considerate of dietary requirements
 category: "Food and drink"
 summary:
   >-

@@ -16,3 +16,5 @@ If you're recording the sessions, using a microphone means you get much better a
 
 Remind people not to tap or blow into the microphone -- the sudden noise can be painful to anybody using a hearing aid, as the sound goes straight to their ears.
 
+Asking "can everybody hear me" into a microphone is pointless, because anybody who can't hear you won't hear the question!
+If you have to ask, it's better to put the question on a slide in big text.
