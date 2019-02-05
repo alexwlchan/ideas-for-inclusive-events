@@ -13,7 +13,7 @@ Try to keep cigarette smoke out of the main conference areas.
 There's been a [UK smoking ban](https://en.wikipedia.org/wiki/Smoking_ban_in_England) for over a decade, and I'm used to people having to go outside to smoke, and there are similar bans in other countries.
 If it's not enforced by local law, consider making the conference areas "smoke-free" for the duration of the conference.
 
-Similarly, strong fragrances and scents can cause allergic reactions.
+Similarly, strong fragrances and scents can cause allergic reactions or trigger migraines.
 You should ask people to attend without fragrances, to avoid anybody being taken ill.
 
 ## Further reading
