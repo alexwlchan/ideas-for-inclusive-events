@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Colour communication badgs"
+title: "Colour communication badges"
 category: badges-and-lanyards
 summary:
   >-
