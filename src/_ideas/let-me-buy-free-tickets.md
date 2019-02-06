@@ -14,7 +14,7 @@ You could buy a single ticket, claim one of the free tickets, or pay for extra t
 
 Here’s a screenshot from the AlterConf London ticketing page:
 
-<img src="/images/alterconf_tickets.png">
+<img src="{{ site.url }}/images/alterconf_tickets.png">
 
 There are seven tiers (from bottom to top):
 

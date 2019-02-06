@@ -33,7 +33,7 @@ I don't have good answers for that one yet.
     The conference in question was in education, not tech, but the same principles apply.
 
 <figure>
-  <img src="/images/pyconuk-creche.jpg">
+  <img src="{{ site.url }}/images/pyconuk-creche.jpg">
   <figcaption>
     Two of the youngest attendees at PyCon UK 2017 – taking advantage of the free crèche. Photo by <a href="https://www.flickr.com/photos/152472562@N06/37919454202/in/album-72157666242746367/">Mark Hawkins</a>.
   </figcaption>

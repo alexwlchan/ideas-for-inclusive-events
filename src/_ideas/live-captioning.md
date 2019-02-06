@@ -27,7 +27,7 @@ I first saw this [at PyCon UK 2016](https://alexwlchan.net/2016/09/speech-to-tex
 *   Lindsey Kuper, one of the !!Con organisers, explained the [value of having live captions at the conference](http://composition.al/blog/2014/05/31/your-next-conference-should-have-real-time-captioning/).
 
 <figure>
-  <img src="/images/pyconuk-stenographers.jpg">
+  <img src="{{ site.url }}/images/pyconuk-stenographers.jpg">
   <figcaption>
     One of the stenographers at PyCon UK 2017. They use a special keyboard to keep up with the speakers, and can hit over 250 wpm. Photo by <a href="https://www.flickr.com/photos/152472562@N06/37891736816/in/album-72157666242746367/">Mark Hawkins</a>.
   </figcaption>

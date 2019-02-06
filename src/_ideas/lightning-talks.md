@@ -21,7 +21,7 @@ At PyCon UK, the signup for lightning talks is extremely popular.
 We want to make sure new speakers get a chance to speak, and not just all the old faces, so we use a [lottery system](https://www.owencampbell.me.uk/lightning-talks.html), with dedicated slots for new speakers.
 
 <figure>
-  <img src="/images/pyconuk-lightning.jpg">
+  <img src="{{ site.url }}/images/pyconuk-lightning.jpg">
   <figcaption>
     Owen Campbell explaining lightning talks at PyCon UK 2017. Owen ran the lightning talks last year, and helped come up with the lottery system. You can see the two buckets for submitting talks in the picture. Photo by <a href="https://www.flickr.com/photos/152472562@N06/37913336882/in/album-72157666242746367/">Mark Hawkins</a>.
   </figcaption>

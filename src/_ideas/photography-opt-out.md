@@ -30,7 +30,7 @@ You may want extra opt-outs for that; I know a few people who learnt that the ha
 If you have children at your event (e.g. a young coder's workshop), give all of them the "don't photograph me" lanyard to avoid red tape around photographing children.
 
 <figure>
-  <img src="/images/pyconuk-lanyards.jpg">
+  <img src="{{ site.url }}/images/pyconuk-lanyards.jpg">
   <figcaption>
     The three colours of lanyard at PyCon UK 2017. Yellow if you didn't want to appear in photographs, blue if you were happy to appear in photographs, red if you were an organiser or volunteer. Photo by me.
   </figcaption>
