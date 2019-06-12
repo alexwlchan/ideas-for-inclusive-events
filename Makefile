@@ -11,7 +11,7 @@ SRC = $(ROOT)/src
 DST = $(ROOT)/_site
 
 build:
-	docker run --volume $(ROOT):/$(ROOT) --workdir $(ROOT) $(BUILD_IMAGE) build
+	docker run --volume $(ROOT):/$(ROOT) --workdir $(ROOT) $(BUILD_IMAGE) jekyll build
 
 serve:
 	docker run \
@@ -19,7 +19,7 @@ serve:
 		--volume $(ROOT):/$(ROOT) \
 		--workdir $(ROOT) \
 		--tty --rm $(BUILD_IMAGE) \
-		serve --port $(SERVE_PORT) --watch
+		jekyll serve --port $(SERVE_PORT) --watch
 
 rsync:
 	docker run --rm --tty \
