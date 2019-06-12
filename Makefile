@@ -11,8 +11,8 @@ SRC = $(ROOT)/src
 DST = $(ROOT)/_site
 
 build:
-	docker run \
-		--volume $(ROOT):/$(ROOT) \
+	docker run --rm --tty \
+		--volume $(ROOT):$(ROOT) \
 		--workdir $(ROOT) \
 		--env JEKYLL_UID=0 \
 		$(BUILD_IMAGE) jekyll build
