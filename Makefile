@@ -49,9 +49,6 @@ rsync:
 		--verbose \
 		--compress \
 		--delete \
-		--exclude=".well-known" \
-		--exclude=".DS_Store" \
-		--exclude="attic/" \
 		--rsh="ssh -o StrictHostKeyChecking=no -i ~/.ssh/id_rsa" \
 		/data/ "$(RSYNC_USER)"@"$(RSYNC_HOST)":"$(RSYNC_DIR)"
 
