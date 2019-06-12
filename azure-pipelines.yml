@@ -1,0 +1,24 @@
+trigger:
+- "live"
+
+pr:
+- "live"
+
+pool:
+  vmImage: "Ubuntu-16.04"
+
+steps:
+- script: "make build"
+  displayName: "Run 'jekyll build'"
+- task: DownloadSecureFile@1
+  inputs:
+    secureFile: incl_events_id_rsa
+- script: |
+    mkdir -p ~/.ssh
+    cp $DOWNLOADSECUREFILE_SECUREFILEPATH ~/.ssh/id_rsa
+    chmod 600 ~/.ssh/id_rsa
+
+    make deploy
+
+  condition: "eq(variables['Build.SourceBranch'], 'refs/heads/live')"
+  displayName: "Deploy to Linode"
