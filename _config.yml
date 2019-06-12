@@ -16,11 +16,6 @@ permalink: "/:year/:month/:title/"
 
 keep_files: ["images"]
 
-markdown: "redcarpet"
-
-redcarpet:
-  extensions: ["smart", "with_toc_data"]
-
 liquid:
   error_mode: "strict"
   strict_filters: true
