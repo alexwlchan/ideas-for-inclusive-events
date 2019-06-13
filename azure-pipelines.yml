@@ -11,6 +11,7 @@ steps:
 - script: |
     # Workaround for https://github.com/jekyll/jekyll/issues/7591
     mkdir .jekyll-cache
+    mkdir _site
 
     make build
   displayName: "Run 'jekyll build'"
