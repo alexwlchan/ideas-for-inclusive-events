@@ -1,5 +1,7 @@
 # ideas-for-inclusive-events
 
+[![Build Status](https://dev.azure.com/alexwlchan/alexwlchan/_apis/build/status/alexwlchan.ideas-for-inclusive-events?branchName=live)](https://dev.azure.com/alexwlchan/alexwlchan/_build/latest?definitionId=3&branchName=live)
+
 Whenever I go to meetups or conferences, I'm always fascinated by the things organisers do to make the event more inclusive and accessible.
 That could be live captioning of talks.
 Thoughtfully designed name badges.
