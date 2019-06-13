@@ -37,6 +37,9 @@ Things you might think about:
     She never uses a pointing device, so using a strange computer might have broken her keyboard-only presentation workflow.
     When something like that happens, you need to allow extra time for people to try using your equipment.
 
+*   If it's a panel discussion and people are sitting down, think about the relative height of the seats and the audience.
+    If there's a table, considered a cloth or similar to make sure the front row [don't get an upskirt view](https://mobile.twitter.com/wendi_c_thomas/status/1114658979177799685).
+
 ## Further reading
 
 *   Nicolas Steenhout's story of [being excluded from the Confoo speaker dinner](https://incl.ca/excluded-confoo-speaker-dinner-happened-made-feel/).
