@@ -18,3 +18,5 @@ Remind people not to tap or blow into the microphone -- the sudden noise can be 
 
 Asking "can everybody hear me" into a microphone is pointless, because anybody who can't hear you won't hear the question!
 If you have to ask, it's better to put the question on a slide in big text.
+
+For much more about audio setup -- things like mic options, battery packs, and common gotchas -- I recommend reading Nat Torkington's [guide to inclusive event audio](https://github.com/njt/event-audio).
