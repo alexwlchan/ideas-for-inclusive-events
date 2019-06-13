@@ -8,7 +8,11 @@ pool:
   vmImage: "Ubuntu-16.04"
 
 steps:
-- script: "make build"
+- script: |
+    # Workaround for https://github.com/jekyll/jekyll/issues/7591
+    mkdir .jekyll-cache
+
+    make build
   displayName: "Run 'jekyll build'"
 - task: DownloadSecureFile@1
   inputs:
