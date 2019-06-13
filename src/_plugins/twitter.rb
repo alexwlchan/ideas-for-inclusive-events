@@ -36,7 +36,7 @@ module Jekyll
     end
 
     def local_path(name)
-      return "#{@src}/_images/twitter/#{name}"
+      return "#{@src}/images/twitter/#{name}"
     end
 
     def display_path(name)
