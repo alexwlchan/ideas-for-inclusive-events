@@ -20,7 +20,10 @@ Regardless of local laws, here are some basic things you should always be lookin
 
 *   Step-free public transport links nearby.
 
-*   Accessible bathrooms close to the main area.
+*   Accessible bathrooms close to the main space.
     (Not halfway across the building or in a private area.)
+
+*   If you have on-site parking, accessible parking spaces, and instructions on how to use them.
+    (Blue badges, car stickers, permits, etc.)
 
 Once you know what you can offer, make sure to [provide as much detail as possible]({{ site.url }}/ideas/wheelchair-accessibility/).

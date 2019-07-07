@@ -53,9 +53,11 @@ For a list of all the conferences and people who influenced this site, check out
 
 I hope these ideas are useful, and you can use them to make your events more inclusive.
 
-This list is long -- **don't feel bad if you can't do all of it**.
-I’ve never seen a conference that implements all of these, or even most of them. Some of this is expensive (either in time or money), and you can’t do it all.
-It's a list of suggestions, not absolute requirements.
+This list is long -- **don't feel bad if you can't do it all**.
+I've never seen a conference that implements all of these, or even most of them.
+Some of this is expensive (in time or money), and you can't do everything.
+Not every idea is always practical or possible.
+It's a list of suggestions, not must-have requirements.
 
 Just do your best – **some improvements are better than no improvements**. Anything you can do to make your event more inclusive is a worthwhile thing to do.
 And in many cases, they'll help more than just the intended group.
