@@ -1,5 +1,7 @@
 # ideas-for-inclusive-events
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d5cc3031-1a95-43b3-a63a-527777513ff9/deploy-status)](https://app.netlify.com/sites/ideas-for-inclusive-events/deploys)
+
 Whenever I go to meetups or conferences, I'm always fascinated by the things organisers do to make the event more inclusive and accessible.
 That could be live captioning of talks.
 Thoughtfully designed name badges.
