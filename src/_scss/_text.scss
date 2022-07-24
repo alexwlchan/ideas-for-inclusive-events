@@ -43,11 +43,19 @@ h1 + h2 {
 }
 
 h3 {
+  margin-top: 1em;
   font-weight: normal;
 }
 
 .post__separator + h2 {
   margin-top: 0em;
+}
+
+blockquote.note {
+  border: 3px solid $primary-color;
+  padding: $default-padding;
+  background: rgba($primary-color, 0.1);
+  border-radius: 15px;
 }
 
 blockquote {
@@ -56,9 +64,17 @@ blockquote {
   margin-right: 0px;
   padding: 0px ($default-padding - $sidebar-border-width);
 
-  & > p {
-    font-style: italic;
-    color: #6f6f6f;
+//  & > p {
+//    font-style: italic;
+//    color: #6f6f6f;
+//  }
+
+  & > p:first-child {
+    margin-top: 0;
+  }
+
+  & > p:last-child {
+    margin-botom: 0;
   }
 
   @media print {

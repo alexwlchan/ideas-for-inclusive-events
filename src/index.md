@@ -31,6 +31,22 @@ You can read the [summary version of the list]({{ site.url }}/short-version/#sho
 You can also read a list [with all the details]({{ site.url }}/long-version/#long-version) on one single, searchable page -- just like that original blog post.
 Each idea also has an individual page.
 
+<blockquote class="note">
+  <p>
+    <strong>Disclaimer, July 2022:</strong>
+    The last major update to this guide was in July 2019, when events were mostly in-person &ndash; and this guide was written assuming you&rsquo;re running an in-person event.
+  </p>
+
+  <p>
+    Some parts of this guide are still relevant for the remote/hybrid events that are now the norm; others less so.
+  </p>
+
+  <p>
+    There are some things that are specific to remote/hybrid events, which aren&rsquo;t discussed at all (e.g. ensuring the participation software you use is accessible to screen readers).
+    I&rsquo;d like to update the guide to cover that at some point, but it&rsquo;s a work-in-progress.
+  </p>
+</blockquote>
+
 All the source code for the site is [on GitHub]({{ site.github_repo }}).
 The site was last updated on {{ site.time | date: site.date_format }}.
 
